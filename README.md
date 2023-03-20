@@ -1,2 +1,2 @@
 # postgresProject
-*test project with using database
+*test project with using database(postgresql)
